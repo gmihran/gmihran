@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on software security
 
-📫 How to reach me: gozdemihranaltinsoy@beykoz.edu.tr
+📫 How to reach me: gozdemihranaltinsoy@beykoz.edu.tr & gmihran@gmail.com
 
 📩 Connect with me:
 
