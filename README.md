@@ -12,7 +12,7 @@
 
 📩 Connect with me:
 
-[<img align="left" height="24" width="24" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png"][linkedin]
+[<img align="left" height="24" width="24" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
